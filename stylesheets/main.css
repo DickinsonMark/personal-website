@@ -22,7 +22,7 @@ images
 ===========================
 */
 
-p .image {
+article .image {
 	float: left;
 	height: 200px;
 	border: 3px solid #29e18c;
